@@ -1,0 +1,23 @@
+body{
+    background-color:#FAEBD7;
+    font-size:24px;
+}
+.header{
+    border-style:dashed;
+    border-color:pink;
+    opacity:1;
+}
+iframe{
+    height:400px;
+    width:100%;
+}
+.job-title{
+    font-weight:bold;
+    color:maroon;
+}
+nav{
+    background-color:#FF1493;
+}
+.dropdown-menu{
+    background-color:#FF1493;
+}
